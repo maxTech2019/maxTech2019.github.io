@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: lato;
+    font-weight: 400;
+}
+
+.class_gato {
+    border: 2px solid #f05;
+    position: relative;
+    right: -500px;
+}
+
